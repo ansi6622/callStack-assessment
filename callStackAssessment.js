@@ -35,4 +35,4 @@ function hasOneSpecialChar(string) {
   return true;
 }
 
-isPasswordStrong("cashewList@3921")
+console.log(isPasswordStrong("cashewList@3921"));
