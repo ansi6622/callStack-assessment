@@ -34,3 +34,5 @@ function hasOneSpecialChar(string) {
   }
   return true;
 }
+
+isPasswordStrong("cashewList@3921")
